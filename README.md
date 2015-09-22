@@ -23,3 +23,9 @@ python学习到的案例和理解
         ---variablePara 可变参数
         ---keyWordPara 关键字参数
         ---multiPara 混合使用以上特殊参数类型
+    
+    -advancefeature
+      --generator 生成器的简单使用
+      --iterator  迭代器的简单使用
+      --listFormula 列表生成式的简单使用
+      --slice     切片的使用
