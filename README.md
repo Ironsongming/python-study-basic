@@ -16,3 +16,10 @@ python学习到的案例和理解
       --circle 循环语句
       --condition 条件语句
       
+    -function
+      --example 函数的基本定义，空函数和多返回值函数
+      --para    参数种类
+        ---defaultPara 默认参数
+        ---variablePara 可变参数
+        ---keyWordPara 关键字参数
+        ---multiPara 混合使用以上特殊参数类型
