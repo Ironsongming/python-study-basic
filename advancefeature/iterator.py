@@ -5,3 +5,16 @@ it = iter(range(20))
 for x in it:
 	print x
 
+
+
+
+
+
+
+
+
+
+
+
+
+
