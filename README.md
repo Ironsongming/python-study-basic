@@ -7,7 +7,7 @@ python学习到的案例和理解
       --字符的编码
       --格式化输出
       --除法和地板除
-      
+    
     -container
       --list  "[]"的运用，数组的增删改查操作，数组的定义和特点
       --tuple "()"的运用，tuple和list的主要区别
@@ -15,7 +15,7 @@ python学习到的案例和理解
       --set   "set()"的运用，集合的运算
       --circle 循环语句
       --condition 条件语句
-      
+    
     -function
       --example 函数的基本定义，空函数和多返回值函数
       --para    参数种类
@@ -29,3 +29,11 @@ python学习到的案例和理解
       --iterator  迭代器的简单使用
       --listFormula 列表生成式的简单使用
       --slice     切片的使用
+      
+    -functional
+      --map_reduce 使用map和reduce函数
+      --filter     使用filter函数
+      --advanceFunction 高阶函数的使用
+      --return_func     返回函数的使用
+      --lambda          隐藏函数
+      --decorator       装饰器的使用
